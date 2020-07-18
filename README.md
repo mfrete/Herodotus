@@ -13,3 +13,4 @@ Package building
 - http://r-pkgs.had.co.nz/description.html
 - https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/#:~:text=%20Writing%20an%20R%20package%20from%20scratch%20,your%20documentation%205%20Step%205%3A%20Install%21%20More%20
 - https://kbroman.org/github_tutorial/
+- https://kbroman.org/pkg_primer/pages/github.html
